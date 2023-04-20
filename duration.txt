@@ -1,0 +1,9 @@
+streamlit
+numpy
+pandas
+datetime
+dateutil
+relativedelta
+numpy_financial
+pillow
+calcul_emprunt
